@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "74116219168",
-    "firebase_url": "https://zikirmatik-8bced.firebaseio.com",
-    "project_id": "zikirmatik-8bced",
-    "storage_bucket": "zikirmatik-8bced.appspot.com"
+    "project_number": "491826990273",
+    "firebase_url": "https://continuumlogin.firebaseio.com",
+    "project_id": "continuumlogin",
+    "storage_bucket": "continuumlogin.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:74116219168:android:fb134f0064bb1d10",
+        "mobilesdk_app_id": "1:491826990273:android:f54bdc54b00311a4",
         "android_client_info": {
-          "package_name": "com.zikirmatiko"
+          "package_name": "com.continuum"
         }
       },
       "oauth_client": [
         {
-          "client_id": "74116219168-8vo43n7frtvvqi1ir11b4dt31660d5sm.apps.googleusercontent.com",
+          "client_id": "491826990273-6m1gfslvt4u3hccv0p8dbug9egm4ebt2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.zikirmatiko",
+            "package_name": "com.continuum",
             "certificate_hash": "ADAEC415DF02A482AA9E021CDD2D7614E0C2D8C4"
           }
         },
         {
-          "client_id": "74116219168-55b6jd32keih3g6bluhikqk2nc50blng.apps.googleusercontent.com",
+          "client_id": "491826990273-qbq9g9enjo3m5lriedo1gs5hcrav51g4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCoUhz8qfx6hxKt8u1ugwSTnNdnIKFbzsc"
+          "current_key": "AIzaSyAw4IEqdkWZor2dcToXk_Tl-6iPmgvVetY"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "74116219168-55b6jd32keih3g6bluhikqk2nc50blng.apps.googleusercontent.com",
+              "client_id": "491826990273-qbq9g9enjo3m5lriedo1gs5hcrav51g4.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
