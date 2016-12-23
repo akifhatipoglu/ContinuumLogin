@@ -15,6 +15,7 @@
     <string name="hint_password">Password</string>
     <string name="hint_name">Fullname</string>
     <string name="btn_login">LOGIN</string>
+    <string name="btn_login_anonymous">Login Anonymously</string>
     <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
     <string name="btn_link_to_login">Already registered. Login Me!</string>
     <string name="title_activity_reset_password">ResetPasswordActivity</string>
@@ -29,4 +30,5 @@
     <string name="lbl_forgot_password">Forgot password?</string>
     <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
     <string name="facebook_app_id">705408526276732</string>
+    <string name="title_welcome_toolbar">Welcome</string>
 </resources>
