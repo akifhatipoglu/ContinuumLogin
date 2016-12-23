@@ -1,4 +1,4 @@
-package info.continuum.firebase;
+package info.continuum.firebase.Activity;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -22,7 +22,8 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.crash.FirebaseCrash;
-import com.google.firebase.crash.internal.FirebaseCrashOptions;
+
+import info.continuum.firebase.R;
 
 public class LoginActivity extends AppCompatActivity {
 

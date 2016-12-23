@@ -17,7 +17,7 @@
         android:theme="@style/AppTheme">
         <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
         <activity
-            android:name="info.continuum.firebase.LoginMenu"
+            android:name="info.continuum.firebase.Activity.LoginMenu"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,19 +26,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="info.continuum.firebase.LoginActivity"
+            android:name="info.continuum.firebase.Activity.LoginActivity"
             android:label="@string/title_activity_profile"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="info.continuum.firebase.MainActivity"
+            android:name="info.continuum.firebase.Activity.MainActivity"
             android:label="@string/title_activity_profile"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="info.continuum.firebase.SignupActivity"
+            android:name="info.continuum.firebase.Activity.SignupActivity"
             android:label="@string/title_activity_login"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="info.continuum.firebase.ResetPasswordActivity"
+            android:name="info.continuum.firebase.Activity.ResetPasswordActivity"
             android:label="@string/title_activity_reset_password"
             android:theme="@style/AppTheme.NoActionBar" />
         <!-- ATTENTION: This was auto-generated to add Google Play services to your project for
