@@ -11,6 +11,8 @@ public class FirebaseAuthOperations {
     //Todo:Singleton pattern eklenmeli
     private FirebaseAuth fAuth;
 
+
+
     public FirebaseAuthOperations(FirebaseAuth fAuth) {
         this.fAuth = fAuth;
     }
@@ -22,6 +24,9 @@ public class FirebaseAuthOperations {
     public FirebaseAuth getfAuth() {
         return fAuth;
     }
+
+
+
 
     //Todo: google, passport, fb ve anonym login fonksiyonları buraya taşınacak.
 }
